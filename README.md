@@ -2,24 +2,24 @@
   <img width="150px" src="./app/src/main/gitx/logo_app.png" alt="Cuidando de Você logo">
 </p>
 
-<h1 align="center">Cuidando de Você</h1>
+<h1 align="center">Taking care of you</h1>
 
 <p align="center">
-  Aplicativo para agendamento de consultas médicas
+  Application for scheduling medical appointments
 </p>
 
 <img src="./app/src/main/gitx/app_mockup.png" alt="App Mockup">
 
 ---
 
-### Sobre
+### About
 
-O aplicativo "Cuidando de Você" faz parte de um projeto desenvolvido durante a faculdade para o Trabalho de Conclusão de Curso (TCC) sobre "O avanço tecnológico na área da saúde".
+The "Caring for You" application is part of a project developed during college for the Course Completion Work (TCC) on "Technological advancement in the health area".
 
-Destaques:
-- Aprovado com excelência.
-- Recebeu proposta sobre investimento.
-- Está em constante desenvolvimento e implementação de melhorias.
+Highlights:
+- Approved with excellence.
+- Received investment proposal.
+- It is constantly developing and implementing improvements.
 
 ---
 
